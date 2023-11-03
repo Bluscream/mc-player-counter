@@ -919,11 +919,12 @@ gulp-babel@^6.1.2:
     through2 "^2.0.0"
     vinyl-sourcemaps-apply "^0.2.0"
 
-gulp-iife@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/gulp-iife/-/gulp-iife-0.3.0.tgz#8a748c8e973dd0c674e8c5739d917d477371485b"
+gulp-iife@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/gulp-iife/-/gulp-iife-0.4.0.tgz#5bba4cb951755e0e7b53ad61f406414fc3a3b595"
+  integrity sha512-2XPPYEsCi7sfJyu6LhFWynxgc5cHylHKeGqQo3vp2LWViKm/2eJlsMWX9WvKVzoLkyTf52PwEW0d0X3By+sdFQ==
   dependencies:
-    lodash "^3.6.0"
+    lodash "^4.17.11"
     source-map "^0.5.3"
     through2 "^2.0.0"
     vinyl-sourcemaps-apply "^0.2.1"
@@ -1299,13 +1300,14 @@ lodash.templatesettings@^3.0.0:
     lodash._reinterpolate "^3.0.0"
     lodash.escape "^3.0.0"
 
-lodash@^3.6.0:
-  version "3.10.1"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-3.10.1.tgz#5bf45e8e49ba4189e17d482789dfd15bd140b7b6"
-
 lodash@^4.13.1, lodash@^4.2.0:
   version "4.17.4"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
+
+lodash@^4.17.11:
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 lodash@~1.0.1:
   version "1.0.2"
